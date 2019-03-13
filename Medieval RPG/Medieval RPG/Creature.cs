@@ -30,6 +30,8 @@
         this.hp = mhp;
         this.xp = xp;
         this.dam = dam;
+        this.gold = gold;
+        this.taunt = taunt;
     }
 
     public string getName() { return name; }

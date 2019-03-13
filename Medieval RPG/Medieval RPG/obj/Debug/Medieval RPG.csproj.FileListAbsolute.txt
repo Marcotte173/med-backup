@@ -5,3 +5,10 @@ C:\Users\marco\source\repos\Medieval RPG\Medieval RPG\bin\Debug\Medieval RPG.exe
 C:\Users\marco\source\repos\Medieval RPG\Medieval RPG\bin\Debug\Medieval RPG.pdb
 C:\Users\marco\source\repos\Medieval RPG\Medieval RPG\obj\Debug\Medieval RPG.exe
 C:\Users\marco\source\repos\Medieval RPG\Medieval RPG\obj\Debug\Medieval RPG.pdb
+C:\Users\tmarcott\source\repos\Medieval RPG\Medieval RPG\bin\Debug\Medieval RPG.exe.config
+C:\Users\tmarcott\source\repos\Medieval RPG\Medieval RPG\bin\Debug\Medieval RPG.exe
+C:\Users\tmarcott\source\repos\Medieval RPG\Medieval RPG\bin\Debug\Medieval RPG.pdb
+C:\Users\tmarcott\source\repos\Medieval RPG\Medieval RPG\obj\Debug\Medieval RPG.csprojAssemblyReference.cache
+C:\Users\tmarcott\source\repos\Medieval RPG\Medieval RPG\obj\Debug\Medieval RPG.csproj.CoreCompileInputs.cache
+C:\Users\tmarcott\source\repos\Medieval RPG\Medieval RPG\obj\Debug\Medieval RPG.exe
+C:\Users\tmarcott\source\repos\Medieval RPG\Medieval RPG\obj\Debug\Medieval RPG.pdb

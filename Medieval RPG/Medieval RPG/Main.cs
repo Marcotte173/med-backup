@@ -34,9 +34,13 @@ namespace MedievalRPG
 
         static monster[] monsterList = { new monster("none", "none", 0, 0, 0, 0), new monster("Slime", "*Squish*", 9, 9, 4, 158),
             new monster("Thug", "'Your money AND your life!'", 14, 14, 6, 163), new monster("Basilisk", "*HSSS*", 10, 10, 8, 163),
-            new monster("Orc", "'ROAR! SMASH!!!'", 18, 18, 8, 213), new monster("Imp", "*Squeak, squeak*", 7, 7, 6, 174),
-            new monster("Giant Cockroach", "*Skitter skitter*", 9, 9, 7, 159), new monster("Goblin", "'The treasure is MINE!'", 8, 8, 6, 163),
-            new monster("Kobald", "*You no take candle!*", 8, 8, 6, 163), };
+            new monster("Goblin", "'The treasure is MINE!'", 8, 8, 6, 163), };
+
+        static monster[] monsterList1 = { new monster("none", "none", 0, 0, 0, 0), new monster("Slime", "*Squish*", 9, 9, 4, 158),
+            new monster("Thug", "'Your money AND your life!'", 28, 18, 18, 463), new monster("Basilisk", "*HSSS*", 10, 10, 8, 163),
+            new monster("Orc", "'ROAR! SMASH!!!'", 30, 20, 24, 513), new monster("Imp", "*Squeak, squeak*", 18, 22, 13, 374),
+            new monster("Giant Cockroach", "*Skitter skitter*", 18, 18, 14, 359), new monster("Goblin", "'The treasure is MINE!'", 16, 16, 12, 363),
+            new monster("Kobald", "*You no take candle!*", 16, 16, 12, 363), };
 
         public static int day = 1;
 
@@ -233,7 +237,7 @@ namespace MedievalRPG
                 bank();
             else if (townchoice == ("t"))
             {
-                var medeley = new SoundPlayer(@"C:\Users\marco\source\repos\MedievalRPG\sfx\medley.wav");
+                var medeley = new SoundPlayer(@"C:\Users\tmarcott\source\repos\Medieval RPG\sfx\medley.wav");
                 medeley.PlayLooping();
                 tavern();
             }
@@ -393,7 +397,7 @@ namespace MedievalRPG
                 bartender();
             else if (choice == "r")
             {
-                var medeley = new SoundPlayer(@"C:\Users\marco\source\repos\medievalRPG\sfx\medley.wav");
+                var medeley = new SoundPlayer(@"C:\Users\tmarcott\source\repos\Medieval RPG\sfx\medley.wav");
                 medeley.Stop();
                 Town();
             }
@@ -1133,8 +1137,8 @@ namespace MedievalRPG
                     Console.Clear();
                     int p = player.getplvl();
                     int r = rand.Next(-1, 1);
-                    int x = rand.Next(1, 10);
-                    if (x < 9)
+                    int x = rand.Next(1, 6);
+                    if (x < 5)
                     {
                         mon.setmonster(monsterList[x]);
                         Console.Write("\nA ");
@@ -1258,7 +1262,7 @@ namespace MedievalRPG
         {
             player.setfullhealth();
             fights = 15;
-            var jbrown = new SoundPlayer(@"C:\Users\marco\source\repos\Medieval RPG\sfx\feelgood.wav");
+            var jbrown = new SoundPlayer(@"C:\Users\tmarcott\source\repos\Medieval RPG\sfx\feelgood.wav");
             jbrown.Play();
             saveGame();
         }
@@ -1480,7 +1484,7 @@ namespace MedievalRPG
             }
             else if (patt == "a")
             {
-                var punch = new SoundPlayer(@"C:\Users\marco\source\repos\Medieval RPG\sfx\punch.wav");
+                var punch = new SoundPlayer(@"C:\Users\tmarcott\source\repos\Medieval RPG\sfx\punch.wav");
                 punch.Play();
                 int attack = player.getDam() + p + weap.getDam();
                 int mattack = mon.getmonDam() * player.getplvl() + m - arm.getDam();
@@ -1560,14 +1564,14 @@ namespace MedievalRPG
         public static void reward()
         {
             Console.Clear();
-            int g = rand.Next(-10, 40);
-            int e = rand.Next(-3, 5);
+            int g = rand.Next(-10, 50);
+            int e = rand.Next(-2, 7);
             if (player.getplvl() == 20)
                 win();
             else
             {
-                Console.WriteLine($"You gain {mon.getmonXp() * player.getplvl() + e} experience");
-                Console.WriteLine($"You gain {mon.getmonGold() * player.getplvl() + g} gold");
+                Console.WriteLine($"You gain {mon.getmonXp() + e} experience");
+                Console.WriteLine($"You gain {mon.getmonGold() + g} gold");
                 player.addgold(mon.getmonGold() * player.getplvl() + g);
                 player.addxp(mon.getmonXp() * player.getplvl() + e);
                 keypress();
