@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<HeroData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>ldjhlkdh</name>
+  <playerClass>Warrior</playerClass>
+  <health>16</health>
+  <weaponIndex>0</weaponIndex>
+  <armourIndex>0</armourIndex>
+  <level>1</level>
+  <gold>0</gold>
+  <goldInBank>0</goldInBank>
+  <experience>0</experience>
+</HeroData>
