@@ -1,0 +1,11 @@
+C:\Users\Nuaurpy\Documents\medieval-rpg\ConsoleApp4\obj\Release\Medieval RPG.csprojAssemblyReference.cache
+C:\Users\Nuaurpy\Documents\medieval-rpg\ConsoleApp4\bin\Release\ConsoleApp4.exe.config
+C:\Users\Nuaurpy\Documents\medieval-rpg\ConsoleApp4\bin\Release\ConsoleApp4.exe.manifest
+C:\Users\Nuaurpy\Documents\medieval-rpg\ConsoleApp4\bin\Release\ConsoleApp4.application
+C:\Users\Nuaurpy\Documents\medieval-rpg\ConsoleApp4\bin\Release\ConsoleApp4.exe
+C:\Users\Nuaurpy\Documents\medieval-rpg\ConsoleApp4\bin\Release\ConsoleApp4.pdb
+C:\Users\Nuaurpy\Documents\medieval-rpg\ConsoleApp4\obj\Release\Medieval RPG.csproj.CoreCompileInputs.cache
+C:\Users\Nuaurpy\Documents\medieval-rpg\ConsoleApp4\obj\Release\ConsoleApp4.exe.manifest
+C:\Users\Nuaurpy\Documents\medieval-rpg\ConsoleApp4\obj\Release\ConsoleApp4.application
+C:\Users\Nuaurpy\Documents\medieval-rpg\ConsoleApp4\obj\Release\ConsoleApp4.exe
+C:\Users\Nuaurpy\Documents\medieval-rpg\ConsoleApp4\obj\Release\ConsoleApp4.pdb

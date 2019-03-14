@@ -1,0 +1,69 @@
+C:\Users\marco\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\Medieval RPG.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\Medieval RPG.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\marco\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\marco\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.manifest
+C:\Users\marco\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.application
+C:\Users\marco\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe.manifest
+C:\Users\marco\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.application
+C:\Users\marco\source\repos\Legend of Klinton\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\marco\source\repos\Legend of Klinton\ConsoleApp4\bin\Debug\ConsoleApp4.exe.manifest
+C:\Users\marco\source\repos\Legend of Klinton\ConsoleApp4\bin\Debug\ConsoleApp4.application
+C:\Users\marco\source\repos\Legend of Klinton\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\marco\source\repos\Legend of Klinton\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\marco\source\repos\Legend of Klinton\ConsoleApp4\obj\Debug\Medieval RPG.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\Legend of Klinton\ConsoleApp4\obj\Debug\Medieval RPG.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Legend of Klinton\ConsoleApp4\obj\Debug\ConsoleApp4.exe.manifest
+C:\Users\marco\source\repos\Legend of Klinton\ConsoleApp4\obj\Debug\ConsoleApp4.application
+C:\Users\marco\source\repos\Legend of Klinton\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\marco\source\repos\Legend of Klinton\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\marco\source\repos\MedievalRPG\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\marco\source\repos\MedievalRPG\ConsoleApp4\bin\Debug\ConsoleApp4.exe.manifest
+C:\Users\marco\source\repos\MedievalRPG\ConsoleApp4\bin\Debug\ConsoleApp4.application
+C:\Users\marco\source\repos\MedievalRPG\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\marco\source\repos\MedievalRPG\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\marco\source\repos\MedievalRPG\ConsoleApp4\obj\Debug\Medieval RPG.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\MedievalRPG\ConsoleApp4\obj\Debug\Medieval RPG.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\MedievalRPG\ConsoleApp4\obj\Debug\ConsoleApp4.exe.manifest
+C:\Users\marco\source\repos\MedievalRPG\ConsoleApp4\obj\Debug\ConsoleApp4.application
+C:\Users\marco\source\repos\MedievalRPG\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\marco\source\repos\MedievalRPG\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\Nuaurpy\Documents\medieval-rpg\ConsoleApp4\obj\Debug\Medieval RPG.csprojAssemblyReference.cache
+C:\Users\Nuaurpy\Documents\medieval-rpg\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Nuaurpy\Documents\medieval-rpg\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\tmarcott\source\repos\MedievalRPG\ConsoleApp4\obj\Debug\Medieval RPG.csprojAssemblyReference.cache
+C:\Users\tmarcott\source\repos\MedievalRPG\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\tmarcott\source\repos\MedievalRPG\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\tmarcott\source\repos\MedievalRPG\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\tmarcott\source\repos\MedievalRPG\ConsoleApp4\bin\Debug\ConsoleApp4.exe.manifest
+C:\Users\tmarcott\source\repos\MedievalRPG\ConsoleApp4\bin\Debug\ConsoleApp4.application
+C:\Users\tmarcott\source\repos\MedievalRPG\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\tmarcott\source\repos\MedievalRPG\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\tmarcott\source\repos\MedievalRPG\ConsoleApp4\obj\Debug\Medieval RPG.csproj.CoreCompileInputs.cache
+C:\Users\tmarcott\source\repos\MedievalRPG\ConsoleApp4\obj\Debug\ConsoleApp4.exe.manifest
+C:\Users\tmarcott\source\repos\MedievalRPG\ConsoleApp4\obj\Debug\ConsoleApp4.application
+<<<<<<< .merge_file_a14648
+=======
+C:\Users\Nuaurpy\Documents\medieval-rpg\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Nuaurpy\Documents\medieval-rpg\ConsoleApp4\bin\Debug\ConsoleApp4.exe.manifest
+C:\Users\Nuaurpy\Documents\medieval-rpg\ConsoleApp4\bin\Debug\ConsoleApp4.application
+C:\Users\Nuaurpy\Documents\medieval-rpg\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Nuaurpy\Documents\medieval-rpg\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Nuaurpy\Documents\medieval-rpg\ConsoleApp4\obj\Debug\Medieval RPG.csproj.CoreCompileInputs.cache
+C:\Users\Nuaurpy\Documents\medieval-rpg\ConsoleApp4\obj\Debug\ConsoleApp4.exe.manifest
+C:\Users\Nuaurpy\Documents\medieval-rpg\ConsoleApp4\obj\Debug\ConsoleApp4.application
+>>>>>>> .merge_file_a05808
+C:\Users\marco\Documents\MedievalRPG\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\marco\Documents\MedievalRPG\ConsoleApp4\bin\Debug\ConsoleApp4.exe.manifest
+C:\Users\marco\Documents\MedievalRPG\ConsoleApp4\bin\Debug\ConsoleApp4.application
+C:\Users\marco\Documents\MedievalRPG\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\marco\Documents\MedievalRPG\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\marco\Documents\MedievalRPG\ConsoleApp4\obj\Debug\Medieval RPG.csprojAssemblyReference.cache
+C:\Users\marco\Documents\MedievalRPG\ConsoleApp4\obj\Debug\Medieval RPG.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\MedievalRPG\ConsoleApp4\obj\Debug\ConsoleApp4.exe.manifest
+C:\Users\marco\Documents\MedievalRPG\ConsoleApp4\obj\Debug\ConsoleApp4.application
+C:\Users\marco\Documents\MedievalRPG\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\marco\Documents\MedievalRPG\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
